@@ -1,0 +1,18 @@
+.car-container {
+  display: grid;
+  grid-template-columns: repeat(3, 300px);
+  row-gap: 30px;
+  column-gap: 10px;
+}
+.row {
+  display: grid;
+  grid-template-columns: repeat(4, 300px);
+  row-gap: 30px;
+  column-gap: 10px;
+}
+.columns {
+  display: grid;
+  grid-template-columns: repeat(4, 300px);
+  row-gap: 30px;
+  column-gap: 10px;
+}
